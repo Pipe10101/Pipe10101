@@ -3,7 +3,7 @@
 
 <img width="1600" height="440" alt="image" src="https://github.com/user-attachments/assets/b5e6fee5-af7c-41b1-b413-27f235868588" />
 
-![Data Science — Machine learning, signal analysis and computer vision]
+Data Science — Machine learning, signal analysis, and computer vision
 
 I’m **Felipe de Leon**. I build **predictive models and practical data tools**, working across signal processing, computer vision, and Python automation. My focus is on connecting the full workflow: preparing data, comparing approaches, evaluating results, and making the work understandable.
 
